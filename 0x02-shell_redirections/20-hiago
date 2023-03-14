@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq cC
+tr -d 'cC'
